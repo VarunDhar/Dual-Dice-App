@@ -1,3 +1,8 @@
+FUNCTIONS OF THE APP-
+-> Displays 2 die, which can be rolled by pressing the button "Roll Die"
+-> Dices roll independently, that is, different numbers should be expected most of the times
+-> Used Constraint Layout, Toasts, Random Number feature, custom made assets for Dice, designed custom App logo
+
 //Insert the dice1 to dice6 (PNG) photos into drawables folder.
 //Also, I have changed the logo of the app.
 //Logo was made using Android Asset Studio.
